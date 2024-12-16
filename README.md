@@ -34,8 +34,8 @@ Microsft Designer：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em 
+- Resultado final - ebook criado em 
 
 
 ## 🛠️ Execução
